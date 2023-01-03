@@ -6,3 +6,6 @@
 
 # Ignore Python cache
 __pycache__
+
+# Ignore coverage data
+.coverage
